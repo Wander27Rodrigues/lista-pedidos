@@ -30,7 +30,7 @@ Desenvolvi este projeto pela plataforma da Devmidia ao iniciar os estudos de jav
 
 ## 🔖 Layout
 <p align="center">
- <img src="asstes" alt="site" />
+ <img src="/assets/site.png" alt="site" />
 </p>
 
 

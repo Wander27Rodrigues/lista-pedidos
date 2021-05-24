@@ -1,5 +1,5 @@
 # lista-pedidos
-Site de uma pizzaria aonde o foco é a lista de pedidos utilizando Html, Css e JavaScript
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvi este projeto pela plataforma da Devmidia ao iniciar os estudos de javascript
+Desenvolvi este projeto pela plataforma da Devmidia ao iniciar os estudos de javascript. Esse é um site de uma pizzaria aonde o foco é a lista de pedidos utilizando Html, Css e JavaScript
 
 ## 🔖 Layout
 
